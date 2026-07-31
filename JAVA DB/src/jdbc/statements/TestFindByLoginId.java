@@ -1,4 +1,4 @@
-package com.rays.jdbc;
+package jdbc.statements;
 
 public class TestFindByLoginId {
 

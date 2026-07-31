@@ -1,4 +1,4 @@
-package com.rays.jdbc.preparedstatement;
+package jdbc.preparedstatements;
 
 import java.text.SimpleDateFormat;
 
